@@ -1,6 +1,6 @@
    HEY , I'm Ankit Kumar and I'm student at Maharaja Agrasen Institute of Technology , Pursuing B.Tech in IT
-* 🌱 I’m CURRENTLY WORKING ON MY Flutter.
-* 💞️ I’m Currently Learning CP.
+* 🌱 I’m currently working on my Data Scientis and AI-Powered Projects.
+* 💞️ Learning ML and Deep Learning.
 * 📫 How to reach me: singhankit24816@gmail.com
 
 <!---
